@@ -1,6 +1,6 @@
 {
   "name": "dictatorjs",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "The new Dictator of 2HOL, made with JS. Taking care of displaying user and player information about Two Hours One Life in our Discord guild.",
   "main": "dictatorjs.js",
   "scripts": {
