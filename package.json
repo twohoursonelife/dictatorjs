@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/twohoursonelife/dictatorjs/issues"
   },
-  "homepage": "https://github.com/twohoursonelife/dictatorjs#readme"
+  "homepage": "https://github.com/twohoursonelife/dictatorjs#readme",
+  "dependencies": {
+    "discord.js": "^13.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.3.0"
+  }
 }
