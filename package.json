@@ -1,0 +1,19 @@
+{
+  "name": "dictatorjs",
+  "version": "0.0.1",
+  "description": "The new Dictator of 2HOL, made with JS. Taking care of displaying user and player information about Two Hours One Life in our Discord guild.",
+  "main": "dictatorjs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twohoursonelife/dictatorjs.git"
+  },
+  "author": "Connor Smith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/twohoursonelife/dictatorjs/issues"
+  },
+  "homepage": "https://github.com/twohoursonelife/dictatorjs#readme"
+}
