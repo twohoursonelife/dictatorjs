@@ -6,4 +6,4 @@ ADD . /app
 
 RUN npm install
 
-CMD ["node", "dictator.js"]
+CMD ["node", "dictatorjs.js"]
